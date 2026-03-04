@@ -4,7 +4,7 @@ Version: 3.6.2
 
 A starter template for building your own AI bot to compete in [CopperHead](https://github.com/revodavid/copperhead-server) Snake tournaments.
 
-For a video guide on building your bot, watch [How to Build Your Own CopperHead Bot](./media/CopperHead-Bot-Creation-3.6.1.mp4).
+For a video guide on building your bot, watch: [How to Build Your Own CopperHead Bot](https://youtu.be/qSY4JtkZAiY).
 
 ## What You'll Need
 
